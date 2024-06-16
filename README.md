@@ -27,7 +27,7 @@ Experience effortless calculations with the  Calculator app. This app combines a
   - <meta http-equiv="X-UA-Compatible" content="IE=edge" />: Ensures compatibility with Internet Explorer.
   - <meta name="viewport" content="width=device-width, initial-scale=1.0" />: Sets the viewport to scale properly on different devices.
   - <link rel="stylesheet" href="style.css" />: Links to the external CSS stylesheet.
-  - <title>Calculator - By Code Traversal</title>: Sets the title of the document.
+  - <title>Calculator</title>: Sets the title of the document.
 
 #### <body>
 - Contains the main content of the HTML document.
