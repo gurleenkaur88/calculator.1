@@ -91,17 +91,6 @@ Experience effortless calculations with the  Calculator app. This app combines a
 
 - .operator { ... }: Styles the operator buttons with a distinct text color.
 
-
-## Appendix
-
-Any additional information goes here
-
-
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
-
 ## Badges
 
 [Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white)**  
